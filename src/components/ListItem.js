@@ -19,6 +19,9 @@ const styles = {
   titleStyle: {
     fontSize: 18,
     paddingLeft: 15
+  },
+  viewStyle: {
+    flex: 1
   }
 };
 
